@@ -31,10 +31,10 @@ package com.sparkbricks
           System.setProperty("twitter4j.oauth." + fields(0), fields(1))
         }
         */
-      System.setProperty("twitter4j.oauth." + "consumerKey", "TTkZ5zRYiotJr2VjkPnjJ2CNa")
-      System.setProperty("twitter4j.oauth." + "consumerSecret", "SAXjZl9dOp6ylmkAhBybiQXtLE7PeUCpGqhCQnziLoeRVL065s")
-      System.setProperty("twitter4j.oauth." + "accessToken", "1960161991-3oJ2SxVMk8y18Zw2x9npzMJTORuSQfLFDwU7ZLJ")
-      System.setProperty("twitter4j.oauth." + "accessTokenSecret", "dnn6ysCH0uheAbzFKjpdPYH1Ux3oUZdK6vNq9G6I6fUg6")
+      System.setProperty("twitter4j.oauth." + "consumerKey", "XXXX")
+      System.setProperty("twitter4j.oauth." + "consumerSecret", "XXX")
+      System.setProperty("twitter4j.oauth." + "accessToken", "XXX")
+      System.setProperty("twitter4j.oauth." + "accessTokenSecret", "XXX")
 
 //      }
     }
